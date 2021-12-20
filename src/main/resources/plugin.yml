@@ -1,0 +1,9 @@
+name: TutorialCommand
+version: '${project.version}'
+main: me.codedcrown.tutorialcommand.TutorialCommand
+api-version: 1.18
+authors: [ ValentinZhelev ]
+description: A simple /tutorial command.
+commands:
+  tutorial:
+    aliases: [tut, tutori, welcome]
