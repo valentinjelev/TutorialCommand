@@ -6,4 +6,4 @@ A simple /tutorial command with delay between messages.
 
 ### Permission - tutorial.use
 
-### This plugin is made for BunnyCraft!
+### This plugin is made for BunnyCraft!!
